@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\PRUEBAS_LOGIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C37B3338-1597-4B4B-883C-C9F5CE0941F8}|PRUEBAS_LOGIN\\PRUEBAS_LOGIN.csproj|C:\\Users\\migue\\source\\repos\\PRUEBAS_LOGIN\\pruebas_login\\views\\pedido\\agregarpedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37B3338-1597-4B4B-883C-C9F5CE0941F8}|PRUEBAS_LOGIN\\PRUEBAS_LOGIN.csproj|solutionrelative:pruebas_login\\views\\pedido\\agregarpedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37B3338-1597-4B4B-883C-C9F5CE0941F8}|PRUEBAS_LOGIN\\PRUEBAS_LOGIN.csproj|c:\\users\\migue\\source\\repos\\pruebas_login\\pruebas_login\\views\\paqueteria\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37B3338-1597-4B4B-883C-C9F5CE0941F8}|PRUEBAS_LOGIN\\PRUEBAS_LOGIN.csproj|solutionrelative:pruebas_login\\views\\paqueteria\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 164,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\PRUEBAS_LOGIN\\PRUEBAS_LOGIN\\Views\\Paqueteria\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "PRUEBAS_LOGIN\\Views\\Paqueteria\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\PRUEBAS_LOGIN\\PRUEBAS_LOGIN\\Views\\Paqueteria\\Agregar.cshtml",
+              "RelativeToolTip": "PRUEBAS_LOGIN\\Views\\Paqueteria\\Agregar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T06:33:45.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgregarPedido.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\PRUEBAS_LOGIN\\PRUEBAS_LOGIN\\Views\\Pedido\\AgregarPedido.cshtml",
+              "RelativeDocumentMoniker": "PRUEBAS_LOGIN\\Views\\Pedido\\AgregarPedido.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\PRUEBAS_LOGIN\\PRUEBAS_LOGIN\\Views\\Pedido\\AgregarPedido.cshtml",
+              "RelativeToolTip": "PRUEBAS_LOGIN\\Views\\Pedido\\AgregarPedido.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T06:20:00.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
